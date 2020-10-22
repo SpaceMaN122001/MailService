@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/russiamail.png</file>
+        <file>res/authentication.png</file>
+        <file>res/registration.png</file>
+        <file>res/chiefAdmin.png</file>
+        <file>res/account.png</file>
+        <file>res/adduser.ico</file>
+        <file>res/history.ico</file>
+        <file>res/authmenu.png</file>
+        <file>res/id.ico</file>
+        <file>res/mail.ico</file>
+        <file>res/parcels.ico</file>
+        <file>res/password.ico</file>
+        <file>res/server.ico</file>
+        <file>res/settings.png</file>
+        <file>res/user.ico</file>
+        <file>res/login.ico</file>
+        <file>res/phone.ico</file>
+        <file>res/address.png</file>
+        <file>res/homeaddress.png</file>
+        <file>res/type.png</file>
+        <file>res/class.png</file>
+        <file>res/price.png</file>
+        <file>res/weight.png</file>
+        <file>res/index.png</file>
+        <file>res/resprice.png</file>
+        <file>res/tracknumber.png</file>
+        <file>res/parcel.png</file>
+        <file>res/calculate.png</file>
+        <file>res/declaredvalue.png</file>
+        <file>res/deliveryperiod.png</file>
+        <file>res/send.png</file>
+        <file>res/accept.png</file>
+        <file>res/package.png</file>
+        <file>res/clearhistory.png</file>
+        <file>res/databasereset.png</file>
+    </qresource>
+</RCC>
